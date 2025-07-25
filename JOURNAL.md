@@ -9,4 +9,7 @@ I created the base schematic for the RP2350 with help from the [hardware design 
 
 Next, I will have to pick a firmware to use and add the necessary changes (eg pins for nfc) to the schematic.
 
+### **Schematic:**
+![Image of schematic](img/journal1/schematic.png)
+
 **Total time spent: 3h**
